@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jayanth5453
-- 👀 I’m interested in Technology
+- 👋 Hi,
+- 👀 I’m interested in Technology and Data
 - 🌱 I’m currently learning ...
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in Technology and Data
-- 🌱 I’m currently learning ...
+- 🌱 can Contact me at mohanamudha9@gmail.com
 
 <!---
 Jayanth5453/Jayanth5453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
